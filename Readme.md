@@ -4,7 +4,7 @@
    
    ## :wave: About Me 
 <a href="https://www.linkedin.com/in/kushal-kothari-/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Kushal, a 21 year old Open Source developer at Apcahe Software Foundation working remotely out of Mumbai, India. I have a soft spot for technology and Open Source communities 💖. I'm working on system programming projects on GitHub for everybody to use which you can find here!I am also an open source and D&I advocate with side hustles as Product Management and Developer Relations roles. 
+Hey! I'm Kushal, a 20 year old Open Source developer at Apcahe Software Foundation working remotely out of Mumbai, India. I have a soft spot for technology and Open Source communities 💖. I'm working on system programming projects on GitHub for everybody to use which you can find here!I am also an open source and D&I advocate with side hustles as Product Management and Developer Relations roles. 
 
 <br> 
 
