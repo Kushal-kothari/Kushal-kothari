@@ -4,8 +4,7 @@
    
    ## :wave: About Me 
 <a href="https://www.linkedin.com/in/kushal-kothari-/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Kushal, a 22 year old Open Source developer working remotely out of Mumbai, India. I have a soft spot for technology and Open Source communities 💖. I'm working on system programming projects on GitHub for everybody to use which you can find here!I am also an open source and D&I advocate with side hustles as Product Management and Developer Relations roles. 
-
+Hey! I'm Kushal, now a 24-year-old Computer Science student at NYU. I have a soft spot for technology and Open Source communities 💖. While diving into the world of CS at NYU, I continue to work on system programming projects on GitHub, accessible for everyone to use. You can check them out here! Alongside my studies, I remain an avid open source and Diversity & Inclusion advocate, with side hustles as Cyber Security and Machine Learning roles. 
 <br> 
 
 ## 🛠 &nbsp;Tech Stack
