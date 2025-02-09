@@ -1,35 +1,40 @@
-<h1 align="center">Hey I'm Kushal Kothari <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+# Hi there! This is Kushal Kothari 👋
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
-   
-   ## :wave: About Me 
-<a href="https://www.linkedin.com/in/kushal-kothari-/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Kushal, now a 24-year-old Computer Science student at NYU. I have a soft spot for technology and Open Source communities 💖. While diving into the world of CS at NYU, I continue to work on system programming projects on GitHub, accessible for everyone to use. You can check them out here! Alongside my studies, I remain an avid open source and Diversity & Inclusion advocate, with side hustles as Cyber Security and Machine Learning roles. 
-<br> 
+## ABOUT ME
 
-## 🛠 &nbsp;Tech Stack
+👨🏻‍🎓 **Pursuing Master's in Computer Science at NYU (Graduating May 2025)**
 
-- 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=ruby)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+🌱 **Specializing in Cloud Computing, Software Development, and Data Analytics. Exploring courses like Advanced Data Structures, Distributed Systems, and Agile Methodologies.**
 
-<br/>
+👨🏻‍💻 **Graduate Assistant at the Wasserman Center, managing tech solutions for career services.**
+
+🔧 **Currently enhancing my skills in Distributed Systems and Data Structures through hands-on projects.**
+
+📧 **Reach me at:** kushal.kothari@stern.nyu.edu
+
+😄 **Nature:** Adaptable, Collaborative, & Detail-Oriented 🎯
+
+🎉 **Fun Fact:** My favorite brainstorming sessions involve coffee and LeetCode challenges!
+
+---
+
+### Here is a list of the tools and languages I've experience with:
+
+- **Programming Languages:** Java, Python, SQL, C++  
+- **Web Technologies:** HTML, CSS, JavaScript, ReactJS  
+- **Cloud Platforms:** AWS (Certified Cloud Practitioner), GCP  
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools:** Git, Tableau, PowerBI  
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/kushal-kothari//" alr="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-violet?logo=LinkedIn&logoColor=black" /></a>
+
+  <a href="mailto:kushal.kothari@stern.nyu.edu" alr="Medium">
+    <img src="https://img.shields.io/badge/-Outlook-violet?logo=Outlook&logoColor=black" /></a>
+  
+<p align='left'>
   
