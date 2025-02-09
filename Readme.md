@@ -33,11 +33,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/kushal-kothari//" alr="LinkedIn">
+  <a href="https://www.linkedin.com/in/kushal-kothari-/" alr="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-violet?logo=LinkedIn&logoColor=black" /></a>
 
-  <a href="mailto:kushal.kothari@stern.nyu.edu" alr="Medium">
-    <img src="https://img.shields.io/badge/-Outlook-violet?logo=Outlook&logoColor=black" /></a>
+  <a href="mailto:kushal.kothari@stern.nyu.edu" alr="Email">
+    <img src="https://img.shields.io/badge/-Email-violet?logo=Email&logoColor=black" /></a>
   
 <p align='left'>
   
