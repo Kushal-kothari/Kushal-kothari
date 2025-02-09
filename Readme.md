@@ -1,5 +1,8 @@
 # Hi there! This is Kushal Kothari 👋
 
+![Kushal Kothari Banner](https://github.com/Kushal-kothari/Kushal-kothari/blob/main/Kushal-kothari-banner.png)
+
+
 ## ABOUT ME
 
 👨🏻‍🎓 **Pursuing Master's in Computer Science at NYU (Graduating May 2025)**
